@@ -1,0 +1,3 @@
+#提供makefile自动构建，将生成目标文件（文件夹obj中）和debug和release版本（bin文件夹中）
+
+#文件夹中数据文件包含data00.dat、data1.dat、data2.dat、data.xls、hobby.txt，程序运行时需要与数据文件在同一目录下
